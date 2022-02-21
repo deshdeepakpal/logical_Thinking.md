@@ -1,0 +1,110 @@
+| Service Provider |                                        |                                  |                                                     |        |                   |                  |
+| ---------------- | -------------------------------------- | -------------------------------- | --------------------------------------------------- | ------ | ----------------- | ---------------- |
+| SNO.             | Attributes                             | Sub Attributes                   | Test Cases                                          | Points | Instamart         | Airtel Broadband |
+|                  |                                        |                                  |                                                     |        |                   |                  |
+|                  |                                        |                                  | Reply in a timely manner<br>                        | 1      |                   |                  |
+|                  |                                        | Talk with respect of customer    |                                                     |        | 2                 | 2                |
+|                  |                                        |                                  | Always use your customer’s name                     | 1      |                   |                  |
+|                  |                                        |                                  | Total                                               |        |                   |                  |
+|                  |                                        |                                  | By E-mail                                           | 1      |                   |                  |
+|                  |                                        | Address Probing                  |                                                     |        | 2                 | 2                |
+|                  |                                        |                                  | By Telephone<br>                                    | 1      |                   |                  |
+|                  |                                        |                                  |                                                     |        |                   |                  |
+|                  |                                        |                                  | Total                                               |        |                   |                  |
+| 1                | Deliver to Customer                    |                                  | Cash Or offline                                     | 1      |                   |                  |
+|                  |                                        | payment options                  |                                                     |        | 2                 | 2                |
+|                  |                                        |                                  | Online                                              | 1      |                   |                  |
+|                  |                                        |                                  | Total                                               |        |                   |                  |
+|                  |                                        |                                  | Durable and high quality<br>                        | 1      |                   |                  |
+|                  |                                        | Packaging of product             |                                                     |        | 2                 | 2                |
+|                  |                                        |                                  | Tamper-evident and secure                           | 1      |                   |                  |
+|                  |                                        |                                  | Total                                               |        |                   |                  |
+|                  |                                        |                                  | Name and Adreess check during order time<br>        | 1      |                   |                  |
+|                  |                                        | Deliver to right customer        |                                                     |        | 2                 | 2                |
+|                  |                                        |                                  | Check Products                                      | 1      |                   |                  |
+|                  |                                        |                                  | Total                                               |        |                   |                  |
+|                  |                                        |                                  | Listen to or read the customer's complaint. ...<br> | 1      |                   |                  |
+|                  |                                        | Response to customer             |                                                     |        | 2                 | 2                |
+|                  |                                        |                                  | Thank the customer for their feedback. ...<br>      | 1      |                   |                  |
+|                  |                                        |                                  | Total                                               |        |                   |                  |
+| 2                | Listening Skills                       |                                  | Phone                                               | 1      |                   |                  |
+|                  |                                        | Communicated with customer       |                                                     |        | 2                 | 2                |
+|                  |                                        |                                  | Live Chat Assistent                                 | 1      |                   |                  |
+|                  |                                        |                                  | Total                                               |        |                   |                  |
+|                  |                                        |                                  | negative feedback.<br>                              | 1      |                   |                  |
+|                  |                                        | Providing feedback about Service |                                                     |        | 2                 | 2                |
+|                  |                                        |                                  | Be timely with feedback                             | 1      |                   |                  |
+|                  |                                        |                                  | Total                                               |        |                   |                  |
+|                  |                                        |                                  | Adding/Updating/Deletion of Records<br>             | 1      |                   |                  |
+|                  |                                        | Tracking of product              |                                                     |        | 2                 | 2                |
+|                  |                                        |                                  | Tracking product any time                           | 1      |                   |                  |
+|                  |                                        |                                  | Total                                               |        |                   |                  |
+|                  |                                        |                                  | Deliver Extract time<br>                            | 1      |                   |                  |
+|                  |                                        | On time Delivery                 |                                                     |        | 2                 | 2                |
+|                  | On Time delivery                       |                                  | Deliver after 1 hrs and More                        | 1      |                   |                  |
+|                  |                                        |                                  | Total                                               |        |                   |                  |
+| 3                |                                        |                                  | Order Time                                          | 1      |                   |                  |
+|                  |                                        | delivery fees (cost of delivery) |                                                     |        | 2                 | 2                |
+|                  |                                        |                                  | Deliver Time                                        | 1      |                   |                  |
+|                  |                                        |                                  | Total                                               |        |                   |                  |
+|                  |                                        |                                  | Return product within 24 hours<br>                  | 1      |                   |                  |
+|                  |                                        | Return Policy of Product         |                                                     |        | 2                 | 2                |
+|                  |                                        |                                  | Return product within 10 days of delivery           | 1      |                   |                  |
+|                  |                                        |                                  | Total                                               |        |                   |                  |
+|                  |                                        |                                  | Ship date &Delivery date<br>                        | 1      |                   |                  |
+|                  |                                        | Ship date and Delivery date      |                                                     |        | 2                 | 2                |
+|                  |                                        |                                  | Delivery date                                       | 1      |                   |                  |
+|                  |                                        |                                  | Total                                               |        |                   |                  |
+|                  |                                        |                                  | Chooses its name Check Design and logo<br>          | 1      |                   |                  |
+|                  |                                        | identity of product              |                                                     |        | 2                 | 2                |
+|                  |                                        |                                  | Diffrent Product                                    | 1      |                   |                  |
+|                  |                                        |                                  | Total                                               |        |                   |                  |
+| 4                | Product Quality                        |                                  | Given More Cashback and Offers                      | 1      |                   |                  |
+|                  |                                        | Reliability                      |                                                     |        | 2                 | 2                |
+|                  |                                        |                                  | Good Qualities Product                              | 1      |                   |                  |
+|                  |                                        |                                  | Total                                               |        |                   |                  |
+|                  |                                        |                                  | After within 24 hrs and 48hrs                       | 1      |                   |                  |
+|                  |                                        | Replacement option               |                                                     |        | 2                 | 2                |
+|                  |                                        |                                  | Not avaible                                         | 1      |                   |                  |
+|                  |                                        |                                  | Total                                               |        |                   |                  |
+|                  |                                        |                                  | Availbility                                         | 1      |                   |                  |
+|                  |                                        | Safety & Security                |                                                     |        | 2                 | 2                |
+|                  |                                        |                                  | Availbility or not                                  | 1      |                   |                  |
+|                  |                                        |                                  | Total                                               |        |                   |                  |
+|                  |                                        |                                  | Name and Adreess check during order time<br>        | 1      |                   |                  |
+|                  |                                        | Check Information Of customer    |                                                     |        | 2                 | 2                |
+|                  |                                        |                                  | Check Products                                      | 1      |                   |                  |
+|                  |                                        |                                  | Total                                               |        |                   |                  |
+|                  |                                        |                                  | Maintain Eye contact<br>                            | 1      |                   |                  |
+|                  |                                        | Build a relationship<br>         |                                                     |        | 2                 | 2                |
+|                  | Communicate With the Customer          |                                  | Listen customers problems                           | 1      |                   |                  |
+|                  |                                        |                                  | Total                                               |        |                   |                  |
+|                  |                                        |                                  | Available                                           | 1      |                   |                  |
+|                  |                                        | Attentiveness helps if required  |                                                     |        | 1                 | 1                |
+|                  |                                        |                                  | Not Applicable                                      | 0      |                   |                  |
+| 5                |                                        |                                  | Total                                               |        |                   |                  |
+|                  |                                        |                                  | to speak politely<br>                               | 1      |                   |                  |
+|                  |                                        | Listening                        |                                                     |        | 2                 | 2                |
+|                  |                                        |                                  | focusing on what Customer are saying.               | 1      |                   |                  |
+|                  |                                        |                                  | Total                                               |        |                   |                  |
+|                  |                                        |                                  | yes                                                 | 1      |                   |                  |
+|                  |                                        | Honesty works every time         |                                                     |        | 1                 | 1                |
+|                  |                                        |                                  | No                                                  | 0      |                   |                  |
+|                  |                                        |                                  | Total                                               |        |                   |                  |
+|                  |                                        |                                  |                                                     |        |                   |                  |
+|                  |                                        |                                  | Total Numbers of Service                            |        | 29                | 39               |
+|                  |                                        |                                  |                                                     |        |                   |                  |
+|                  |                                        |                                  | Rating ★★★★★                                        |        | 7.25              | 9.75             |
+|                  | Note:-                                 |                                  | Service Status                                      |        | Excellent Service | Average Service  |
+|                  | Max No. of Best Ser.= 25, Rating ★★★★★ |                                  |                                                     |        |                   |                  |
+|                  | 5  Number is 1★                        |                                  |                                                     |        |                   |                  |
+|                  | Poor = 1.0 to 3.0 rating               |                                  |                                                     |        |                   |                  |
+|                  | Average = 3.1 to 3.9 rating            |                                  |                                                     |        |                   |                  |
+|                  | Excellent = 4.0 to above               |                                  |                                                     |        |                   |                  |
+|                  |                                        |                                  |                                                     |        |                   |                  |
+|                  |                                        |                                  |                                                     |        |                   |                  |
+|                  |                                        |                                  |                                                     |        |                   |                  |
+|                  |                                        |                                  |                                                     |        |                   |                  |
+|                  |                                        |                                  |                                                     |        |                   |                  |
+|                  |                                        |                                  |                                                     |        |                   |                  |
+|                  |                                        |                                  |                                                     |        |                   |
